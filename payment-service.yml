@@ -6,7 +6,7 @@ spring:
     name: payment-service
 
   datasource:
-    url: jdbc:mysql://localhost:3311/payment-db
+    url: jdbc:mysql://localhost:3311/payment_db
     username: root
     password: 141248690405Zt.
 

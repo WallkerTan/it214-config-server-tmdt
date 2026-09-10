@@ -6,7 +6,7 @@ spring:
     name: product-service
 
   datasource:
-    url: jdbc:mysql://localhost:3308/product-db
+    url: jdbc:mysql://localhost:3308/product_db
     username: root
     password: 141248690405Zt.
 

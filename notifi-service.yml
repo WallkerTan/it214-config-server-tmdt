@@ -6,7 +6,7 @@ spring:
     name: notifi-service
 
   datasource:
-    url: jdbc:mysql://localhost:3312/notifi-db
+    url: jdbc:mysql://localhost:3312/notify_db
     username: root
     password: 141248690405Zt.
 
